@@ -1,0 +1,12 @@
+2022-02-12 12:41:09
+./Skao/hand/hand_7.png
+a
+./Skao/face/Skao_7/Skao_7_7.png
+./Skao/eye/eye_28.png
+./Skao/nose/nose_7.png
+./Skao/mouth/mouth_22.png
+まる
+メス♀
+10
+60
+310
