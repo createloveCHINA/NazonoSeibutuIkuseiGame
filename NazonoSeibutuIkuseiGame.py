@@ -5,7 +5,7 @@ import Syori.SonotaSyori.SoundKanri
 
 Thread1=ThreadPoolExecutor()
 sound=Syori.SonotaSyori.SoundKanri.SoundKanri()
-
+#テスト
 import random
 import time
 import tkinter as tk
