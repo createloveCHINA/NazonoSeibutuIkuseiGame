@@ -17,7 +17,6 @@ a = Analysis(['NazonoSeibutuIkuseiGame.py'],
              win_private_assemblies=False,
              cipher=block_cipher,
              noarchive=False)
-a.datas +=[('Icon.ico','.\img\Icon.ico','DATA'),('TM_1.gif','.\img\TM_1.gif','DATA'),('GameOver.gif','.\img\GameOver.gif','DATA')]
 pyz = PYZ(a.pure, a.zipped_data,
              cipher=block_cipher)
 
@@ -25,7 +24,7 @@ exe = EXE(pyz,
           a.scripts,
           a.binaries,
           a.zipfiles,
-          a.datas,  
+          a.datas += [('Icon.ico',  '.\img\Icon.ico','DATA')]
           [],
           name='NazonoSeibutuIkuseiGame',
           debug=False,

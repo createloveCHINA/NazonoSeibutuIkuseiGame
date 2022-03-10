@@ -1,12 +1,12 @@
-2022-02-12 12:34:18
+2022-02-15 16:33:51
 a
 a
 ./Skao/face/Skao_7/Skao_7_7.png
-./Skao/eye/eye_28.png
+./Skao/eye/eye_10.png
 a
 a
 まる
 メス♀
-3
+2
 60
 170

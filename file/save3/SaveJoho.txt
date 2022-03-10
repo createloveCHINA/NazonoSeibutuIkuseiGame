@@ -1,12 +1,12 @@
-2022-02-12 12:41:09
+2022-02-16 15:17:57
 ./Skao/hand/hand_7.png
-a
+./Skao/fut/fut_7.png
 ./Skao/face/Skao_7/Skao_7_7.png
 ./Skao/eye/eye_28.png
 ./Skao/nose/nose_7.png
 ./Skao/mouth/mouth_22.png
 まる
 メス♀
-10
+11
 60
 310
